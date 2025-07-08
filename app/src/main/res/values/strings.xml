@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Yuumi</string>
+    <string name="description_cat">A picture of a cat</string>
+    <string name="description_posuda">Picture of the bowl</string>
+    <string name="prikaz_stanja_u_zdjelici">State in bowl</string>
+    <string name="gumb_za_otvaranje_spremnika">Opening button</string>
+    <string name="otvori">Open the food container</string>
+    <string name="textview">"State"</string>
+    <string name="button">"Next"</string>
+    <string name="back">"Back"</string>
+    <string name="background">Background</string>
+    <string name="textRv">Go to Database</string>
+    <string name="btnRV">Database</string>
+    <string name="start">Home page</string>
+    <string name="title">Enjoy every bite with Yuumi !</string>
+    <string name="description_dog">A picture of a dog</string>
+    <string name="btn_log">Last fed</string>
+
+
+</resources>

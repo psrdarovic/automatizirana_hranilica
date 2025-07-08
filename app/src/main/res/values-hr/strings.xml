@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yuumi</string>
+    <string name="description_cat">Slika mace</string>
+    <string name="description_posuda">Slika posude</string>
+    <string name="prikaz_stanja_u_zdjelici">Stanje u posudi</string>
+    <string name="gumb_za_otvaranje_spremnika">Gumb za otvaranje</string>
+    <string name="otvori">Otvori spremnik s hranom</string>
+    <string name="textview">Stanje\n</string>
+    <string name="button">Dalje</string>
+    <string name="back">Natrag</string>
+    <string name="background">Pozadina</string>
+    <string name="textRv">Idi na bazu</string>
+    <string name="btnRV">Baza</string>
+    <string name="start">Početna stranica</string>
+    <string name="title">Uživajte u svakom zalogaju s Yuumi !</string>
+    <string name="description_dog">Slika psa</string>
+    <string name="btn_log">Zadnje hranjenje</string>
+</resources>

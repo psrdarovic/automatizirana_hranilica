@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#B1B132</color>
+    <color name="pozTeksta">#e6e6a9</color>
+    <color name="backgroundColor">#F5F5DC</color>
+    <color name="black">#000000</color>
+    <color name="btnsec">#CECE56</color>
+    <color name="mark">#EBEBBC</color>
+    <color name="naslov">#004400</color>
+</resources>
